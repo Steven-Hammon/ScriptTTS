@@ -1,0 +1,10 @@
+.venv/
+.fast-venv/
+.cache/
+models/
+data/
+__pycache__/
+*.pyc
+tests/output/
+/Reply4.wav
+/Reply4.txt
